@@ -1,0 +1,7 @@
+Grabar voces personaje
+. Saltar 
+. Golpear
+. Grito de guerra con cuerno
+. Respiración
+. Latido corazón
+. Algunas voces genericas vikingas
