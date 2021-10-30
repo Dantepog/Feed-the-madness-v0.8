@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.13/x64" 1635454854
+<REAPER_PROJECT 0.1 "6.13/x64" 1635445246
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 5 9 -1 60 2 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 4.10280359236127
-  ZOOM 4.87471543537611 0 0
+  CURSOR 0
+  ZOOM 6.86142159255502 0 0
   VZOOMEX 1 0
   USE_REC_CFG 0
   RECMODE 1
@@ -153,7 +153,7 @@
       CHANMODE 0
       GUID {839586CF-8FB0-48F2-9CEF-E8ED8C1D45FA}
       <SOURCE VIDEO
-        FILE "Feed The Madness V0.8.mp4"
+        FILE "D:\Documentos\Github\Proyectos\Feed-the-madness-v0.8\Feed The Madness V0.8.mp4"
       >
     >
     <ITEM
@@ -175,7 +175,7 @@
       CHANMODE 0
       GUID {3CB75047-1454-4315-B662-82B07BA82633}
       <SOURCE VIDEO
-        FILE "Feed The Madness V0.8.mp4"
+        FILE "D:\Documentos\Github\Proyectos\Feed-the-madness-v0.8\Feed The Madness V0.8.mp4"
       >
     >
   >
@@ -4814,7 +4814,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 25 0 0
+    TRACKHEIGHT 48 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4976,7 +4976,7 @@
       CHANMODE 0
       GUID {24F92311-B61F-4C6B-98BF-64B821385ACD}
       <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 3 - Horns 01.wav"
+        FILE "D:\Documentos\Proyectos Unity\Audios proyectos\Feed the madness v0.6\Maqueta music in game\Fl\Tracks\Maqueta - Track 3 - Horns 01.wav"
       >
     >
     <ITEM
@@ -4998,7 +4998,7 @@
       CHANMODE 0
       GUID {CE0003DE-3489-4661-AC43-4F5C84B0588B}
       <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 3 - Horns 01.wav"
+        FILE "D:\Documentos\Proyectos Unity\Audios proyectos\Feed the madness v0.6\Maqueta music in game\Fl\Tracks\Maqueta - Track 3 - Horns 01.wav"
       >
     >
     <ITEM
@@ -5020,7 +5020,7 @@
       CHANMODE 0
       GUID {4C341E94-29D0-45B1-A25D-A1977381879F}
       <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 3 - Horns 01.wav"
+        FILE "D:\Documentos\Proyectos Unity\Audios proyectos\Feed the madness v0.6\Maqueta music in game\Fl\Tracks\Maqueta - Track 3 - Horns 01.wav"
       >
     >
   >
@@ -5067,496 +5067,7 @@
       CHANMODE 0
       GUID {5E7D8291-06BD-4114-B784-1F19FED4D17E}
       <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 7 - Horn cierre.wav"
-      >
-    >
-  >
-  <TRACK {672B0E4E-D706-4AEB-8B24-AE248B1359FE}
-    NAME Música
-    PEAKCOL 33489024
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 0.56234132519035 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 1 1
-    BUSCOMP 1 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 1
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {672B0E4E-D706-4AEB-8B24-AE248B1359FE}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-  >
-  <TRACK {6AB791FB-9728-4E16-97C9-4EB312A0318A}
-    NAME Voces
-    PEAKCOL 33517495
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 0.35481338923358 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {6AB791FB-9728-4E16-97C9-4EB312A0318A}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 77.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.252652 0 1 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {BFC9CA8D-CC3E-4CC3-BA05-0B376D3AC69B}
-      IID 66
-      NAME "Maqueta - Track 1 - Voces.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E5D84682-D603-4B98-9B3D-34A29A451C39}
-      <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 1 - Voces.wav"
-      >
-    >
-    <ITEM
-      POSITION 78.5
-      SNAPOFFS 0
-      LENGTH 3.13905663402277
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 1.657602 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E61905BD-499E-4986-8CD7-8A0E379DB7DC}
-      IID 66
-      NAME "Maqueta - Track 1 - Voces.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1.36094336597723
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D06D03BE-DC9F-4462-97FE-09007C9AD385}
-      <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 1 - Voces.wav"
-      >
-    >
-  >
-  <TRACK {82D13029-6F73-46D3-AB20-4690F0AE2214}
-    NAME Drums
-    PEAKCOL 33517495
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 0.44668359215096 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {82D13029-6F73-46D3-AB20-4690F0AE2214}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 4.89265752583492
-      SNAPOFFS 0
-      LENGTH 72.60734247416508
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1.1 0.01 0.01 1 1 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D012DBEA-D995-459A-A9E3-9A015CF4407F}
-      IID 67
-      NAME "Maqueta - Track 2 - Drums.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6F3D656A-5F31-440C-9A5D-D876D873966B}
-      <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 2 - Drums.wav"
-      >
-    >
-    <ITEM
-      POSITION 77.49
-      SNAPOFFS 0
-      LENGTH 1.42031746031799
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.01 1 1 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {692DC684-8BB2-48B3-891D-B285DFFE9878}
-      IID 529
-      NAME "Maqueta - Track 2 - Drums.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 91.98427877126129
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {827E6CB2-2161-4C78-A474-7F23A1BE49BA}
-      <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 2 - Drums.wav"
-      >
-    >
-    <ITEM
-      POSITION 78.91031746031798
-      SNAPOFFS 0
-      LENGTH 0.58968253968202
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3463EABA-4D0A-4545-987E-6D879C4A1F16}
-      IID 531
-      NAME "Maqueta - Track 2 - Drums.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 93.40459623157928
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2D34C7DF-4195-47FE-BFA2-4AA9CBF1AA10}
-      <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 2 - Drums.wav"
-      >
-    >
-  >
-  <TRACK {9B2E7BC4-AA62-4EC2-A5E7-DEE749121E96}
-    NAME " Horns 01"
-    PEAKCOL 33517495
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {9B2E7BC4-AA62-4EC2-A5E7-DEE749121E96}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 4.89265752583492
-      SNAPOFFS 0
-      LENGTH 17.14022247552982
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {FAF9CAD6-EF7C-4C73-8EBD-A3037EBE8A59}
-      IID 68
-      NAME "Maqueta - Track 3 - Horns 01.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1520555A-87D1-4227-9171-37FCF75B76D5}
-      <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 3 - Horns 01.wav"
-      >
-    >
-  >
-  <TRACK {A2AA7AE2-A268-4B0A-9B1B-81853A84F75A}
-    NAME "Horns 02"
-    PEAKCOL 33517495
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 33 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {A2AA7AE2-A268-4B0A-9B1B-81853A84F75A}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 8.5299071240245
-      SNAPOFFS 0
-      LENGTH 10.38528609853285
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A8A0BC56-92EC-4EA0-A0D6-2A021EC3F837}
-      IID 69
-      NAME "Maqueta - Track 4 - Horns 02.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {AB1A30E8-37E9-4315-8A4C-91058DB5258E}
-      <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 4 - Horns 02.wav"
-      >
-    >
-    <ITEM
-      POSITION 28.89265752583488
-      SNAPOFFS 0
-      LENGTH 41.10734247416512
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {CF41CF27-FA2A-4DA7-96BC-69072CC0E9E3}
-      IID 74
-      NAME "Maqueta - Track 4 - Horns 02.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 24
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1DBFD145-767D-49FD-861F-4204E21918F8}
-      <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 4 - Horns 02.wav"
-      >
-    >
-  >
-  <TRACK {000A1C1D-4462-46B6-97EE-B19870021273}
-    NAME "Horns 03"
-    PEAKCOL 33517495
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 0.50118723362727 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {000A1C1D-4462-46B6-97EE-B19870021273}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 23.23140957772707
-      SNAPOFFS 0
-      LENGTH 54.26859042227293
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.375141 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2FAC7DBE-3C61-44EA-8228-0780307ECC31}
-      IID 70
-      NAME "Maqueta - Track 5 - Horns 03.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 34.33619291248679
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {20B8E4FA-CD0A-47E0-8CF6-5ADBB80197D1}
-      <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 5 - Horns 03.wav"
-      >
-    >
-  >
-  <TRACK {B32163BF-585B-4EE2-B04E-F2482222993F}
-    NAME "Motivo cuerdas"
-    PEAKCOL 33517495
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 0.36279289742106 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {B32163BF-585B-4EE2-B04E-F2482222993F}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 23.23140957772707
-      SNAPOFFS 0
-      LENGTH 48.97897590981511
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7FEDACCE-D5F1-417B-A8DD-94D2DCDBF0BB}
-      IID 71
-      NAME "Maqueta - Track 6 - Motivo cuerdas.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 34.33619291248679
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2A04CD0A-8979-4E61-AE2E-1C41D0281AD4}
-      <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 6 - Motivo cuerdas.wav"
-      >
-    >
-    <ITEM
-      POSITION 72.21038548754218
-      SNAPOFFS 0
-      LENGTH 5.28961451245782
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 1.443069 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {6A8840D8-A769-43C0-8F33-F203BF23DDF2}
-      IID 540
-      NAME "Maqueta - Track 6 - Motivo cuerdas.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 83.3151688223019
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D2B7F162-62CB-4381-A5F9-AD4787FA25EF}
-      <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 6 - Motivo cuerdas.wav"
-      >
-    >
-  >
-  <TRACK {91B4003C-4B43-42BE-84C1-59D6BD79166B}
-    NAME "Horn cierre"
-    PEAKCOL 33517495
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {91B4003C-4B43-42BE-84C1-59D6BD79166B}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-  >
-  <TRACK {68FE3530-62E2-4382-973F-F0348B8C6001}
-    NAME "Motivo 2 cuerdas"
-    PEAKCOL 33517495
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 0.31622776601684 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 2 -1
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {68FE3530-62E2-4382-973F-F0348B8C6001}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 23.23140957772707
-      SNAPOFFS 0
-      LENGTH 54.26859042227293
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.299286 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {54BBFDC6-F81D-4AB4-86C9-2F24B309AD48}
-      IID 73
-      NAME "Maqueta - Track 8 - Motivo 2 cuerdas.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 34.33619291248679
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {827FF171-7FF0-49A8-897A-646682C14B3F}
-      <SOURCE WAVE
-        FILE "Musica ejemplo\Maqueta - Track 8 - Motivo 2 cuerdas.wav"
+        FILE "D:\Documentos\Proyectos Unity\Audios proyectos\Feed the madness v0.6\Maqueta music in game\Fl\Tracks\Maqueta - Track 7 - Horn cierre.wav"
       >
     >
   >
